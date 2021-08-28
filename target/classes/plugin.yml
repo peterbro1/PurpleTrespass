@@ -1,0 +1,8 @@
+name: PurpleTrespass
+main: me.gmx.purpletrespass.PurpleTrespass
+version: 0.05
+depend: [WorldGuard, WorldEdit]
+author: GMX
+commands:
+  purpletrespass:
+    aliases: [purpletrespass]

@@ -1,0 +1,8 @@
+name: ${name}
+main: me.gmx.purpletrespass.PurpleTrespass
+version: ${project.version}
+depend: [WorldGuard, WorldEdit]
+author: ${author}
+commands:
+  purpletrespass:
+    aliases: [purpletrespass]
