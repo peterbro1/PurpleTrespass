@@ -1,6 +1,9 @@
 # Purple Trespass
 
-### Built for 1.12.2 spigot paper for use in purpleprison.net
+### Built for 1.12.2 spigot paper
+
+### Provides a means to prevent players from accessing certain areas. I created this because the worldguard area denial takes lots of cpu time and is impractical in servers with 
+### over 150 players. Also added support for removing potion effects from players in certain regions.
 
 ####
 
