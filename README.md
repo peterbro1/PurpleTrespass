@@ -52,3 +52,6 @@ CHECK_INTERVAL: '5'
 #The command to issue to the player if found in the regions
 PUNISHMENT_COMMAND: spawn %player%
 ```
+
+
+This is now abandoned, and I do not plan to maintain it. If you'd like to become the maintainer, send me a DM
